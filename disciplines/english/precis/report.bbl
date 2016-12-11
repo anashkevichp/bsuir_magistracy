@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+
+\bibitem{article_neomarxism_today_and_tomorrow}
+\selectlanguageifdefined{russian}
+\BibEmph{Михайловский,~В.~С.} Неомарксизм вчера,
+  сегодня, завтра [{Текст}]~/
+  В.~С.~Михайловский~// \BibEmph{Социология}. "---
+\newblock 2015. "---
+\newblock {№}~4. "---
+\newblock {С.}~37--43.
+
+\bibitem{era_of_change}
+\selectlanguageifdefined{russian}
+\BibEmph{Степин,~В.~С.} Эпоха перемен и сценарии
+  будущего [{Текст}]~/ В.~С.~Степин. "---
+\newblock [{Б.\ м.}~: {б.\ и.}], 1996.
+
+\bibitem{article_socialism}
+\selectlanguageifdefined{russian}
+\BibEmph{Букова,~И.~А.} Социализм в XXI веке: миф
+  или реальность? [{Текст}]~/ И.~А.~Букова~//
+  \BibEmph{Социально-гуманитарные знания}. "---
+\newblock 2010. "---
+\newblock {№}~3. "---
+\newblock {С.}~335--341.
+
+\bibitem{neomarxism}
+\selectlanguageifdefined{russian}
+Неомарксизм и проблемы социологии
+  культуры [{Текст}]~/ Ю.~Н.~Давыдов, О.~С.~Ли,
+  С.~М.~Митина, А.~И.~Чупрынин. "---
+\newblock [{Б.\ м.}]~: Наука, 1980.
+
+\bibitem{stepin1999}
+\selectlanguageifdefined{russian}
+\BibEmph{Степин,~В.~С.} Философия науки и техники
+  [{Текст}]~/ В.~С.~Степин, В.~Г.~Горохов,
+  М.~А.~Розов. "---
+\newblock [{Б.\ м.}]~: Гардарики, 1999.
+
+\bibitem{key_thinkers}
+\selectlanguageifdefined{russian}
+\BibEmph{Tormey,~S.} Key Thinkers: From Critical Theory to Post-Marxism
+  [{Текст}]~/ S.~Tormey, J.~Townshend. "---
+\newblock [{Б.\ м.}]~: SAGE Publications Ltd, 2006.
+
+\end{thebibliography}

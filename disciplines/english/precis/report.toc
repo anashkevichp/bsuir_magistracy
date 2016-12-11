@@ -1,0 +1,26 @@
+\select@language {russian}
+\select@language {russian}
+\contentsline {section}{Abstract}{3}{Doc-Start}
+\contentsline {section}{Introduction}{4}{Doc-Start}
+\contentsline {section}{\numberline {1}The growth of mobile}{5}{section.1}
+\contentsline {section}{\numberline {2}iOS app development technologies}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Programming languages}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Databases}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Addition tools}{9}{subsection.2.3}
+\contentsline {section}{\numberline {3}Forecasting methods}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Classification of forecasting methods}{10}{subsection.3.1}
+\contentsline {section}{Conclusion}{11}{subsection.3.1}
+\contentsline {section}{References}{12}{subsection.3.1}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\select@language {russian}
+\contentsline {section}{Glossary}{13}{subsection.3.1}
