@@ -1,0 +1,3 @@
+NSThread* myThread = [[NSThread alloc] initWithTarget:self
+       selector:@selector(myThreadMainMethod:) object:nil];
+[myThread start];

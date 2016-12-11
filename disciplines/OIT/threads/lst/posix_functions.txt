@@ -1,0 +1,5 @@
+pthread_create()
+pthread_exit()
+pthread_cancel()
+pthread_join()
+pthread_detach()

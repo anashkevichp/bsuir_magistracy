@@ -1,0 +1,3 @@
+NSRunLoop *runLoop = [NSRunLoop currentRunLoop];
+[iStream setDelegate: self];
+[iStream scheduleInRunLoop:runLoop forMode: NSDefaultsRunLoopMode];

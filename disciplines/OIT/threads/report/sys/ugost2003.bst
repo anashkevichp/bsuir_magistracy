@@ -1,1 +1,0 @@
-../../../../../templates/lab/sys/ugost2003.bst
